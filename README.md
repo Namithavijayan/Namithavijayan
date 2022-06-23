@@ -4,6 +4,6 @@
 </HTML>  
   
 
-![andy-holmes-LUpDjlJv4_c-unsplash (1)](https://user-images.githubusercontent.com/70799831/175301176-0de4d782-5534-4a0b-8b3c-973984f527d5.jpg)
+[![NamithaVijayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Namithavijayan)](https://github.com/Namithavijayan/github-readme-stats)
 
 
